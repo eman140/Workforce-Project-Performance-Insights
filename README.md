@@ -11,8 +11,10 @@ The dataset consisted of seven Excel tables, including information about Employe
 
  Insights and Recommendations:
  The two departments not making a profit are:
- 1.Human Resources: Profit of -£92,000
- 2. IT: Profit of -£112,500
+ 
+   1. Human Resources: Profit of -£92,000 
+
+   2. IT: Profit of -£112,500
 
  Actionable Insights: 
 Conduct a detailed analysis of the HR and IT team's structure, roles, and responsibilities.
