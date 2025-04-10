@@ -56,10 +56,3 @@ Further analysis should delve deeper into the specific cost drivers within HR an
 
 
 
-## 📄 License
-
-This project is for internal analysis and reporting purposes.
-
----
-
-Made by Entesaar Sharif
