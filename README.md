@@ -1,4 +1,4 @@
-# 📊 Workforce & Project Performance Insights: 
+#  Workforce & Project Performance Insights: 
  <b> Identifying Key Areas of Concern </b>
 
 This repository contains the analysis and insights derived from a workforce and project performance dataset. The primary objective was to identify departments and projects that are currently over budget or underperforming, paving the way for informed corrective actions.
